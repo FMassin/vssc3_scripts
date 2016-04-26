@@ -4,7 +4,7 @@ Scripts to analyse the performance of VS(SC3). To run them you will need the fol
 additional Python packages installed:
 
 psycopg2  
-pscycopg2.extras  
+psycopg2.extras  
 MySQLdb  
 obspy  
 numpy  
